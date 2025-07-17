@@ -7,6 +7,7 @@ export default function Home() {
       <h1>Hi I am Anas Amin</h1>
 
 
+
     </div>
   );
 }
